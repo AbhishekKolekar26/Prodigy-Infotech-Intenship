@@ -1,2 +1,2 @@
-# Intenship-Task
+# Prodigy intenship 
 Intenship task and solution
